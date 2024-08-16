@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="da41219bfbd34650a2f4c0d90797b943" Name="Diagram1">
+        <EntityTypeShape EntityType="QLTVModel.phieuphat" Width="1.5" PointX="5.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.sysdiagram" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbChoDuyet" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbDauSach" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbDG" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbMK" Width="1.5" PointX="7.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbNXB" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbPhieuMuon" Width="1.5" PointX="7.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbTG" Width="1.5" PointX="0.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLTVModel.tbThe" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="QLTVModel.FK_phieuphat_tbThe" ManuallyRouted="false" />
+        <AssociationConnector Association="QLTVModel.FK_tbChoDuyet_tbDauSach" ManuallyRouted="false" />
+        <AssociationConnector Association="QLTVModel.FK_tbChoDuyet_tbThe" ManuallyRouted="false" />
+        <AssociationConnector Association="QLTVModel.FK_tbDauSach_tbNXB1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLTVModel.FK_tbDauSach_tbTG" ManuallyRouted="false" />
+        <AssociationConnector Association="QLTVModel.FK_tbThe_tbDG" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

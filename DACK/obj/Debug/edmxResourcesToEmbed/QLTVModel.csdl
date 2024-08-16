@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLTVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="phieuphat">
+    <Key>
+      <PropertyRef Name="MaPhieuPhat" />
+    </Key>
+    <Property Name="MaPhieuPhat" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaThe" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="TienTra" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ThongBao" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbThe" Relationship="Self.FK_phieuphat_tbThe" FromRole="phieuphat" ToRole="tbThe" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tbChoDuyet">
+    <Key>
+      <PropertyRef Name="MaPhieu" />
+    </Key>
+    <Property Name="MaPhieu" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaThe" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="MaDauSach" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="TinhTrang" Type="Boolean" />
+    <Property Name="ThongBao" Type="String" MaxLength="30" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="tbDauSach" Relationship="Self.FK_tbChoDuyet_tbDauSach" FromRole="tbChoDuyet" ToRole="tbDauSach" />
+    <NavigationProperty Name="tbThe" Relationship="Self.FK_tbChoDuyet_tbThe" FromRole="tbChoDuyet" ToRole="tbThe" />
+  </EntityType>
+  <EntityType Name="tbDauSach">
+    <Key>
+      <PropertyRef Name="MaDauSach" />
+    </Key>
+    <Property Name="MaDauSach" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenSach" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MaNXB" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaTG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="NamXuatBan" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ChuyenNganh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <Property Name="GhiChu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbChoDuyets" Relationship="Self.FK_tbChoDuyet_tbDauSach" FromRole="tbDauSach" ToRole="tbChoDuyet" />
+    <NavigationProperty Name="tbNXB" Relationship="Self.FK_tbDauSach_tbNXB1" FromRole="tbDauSach" ToRole="tbNXB" />
+    <NavigationProperty Name="tbTG" Relationship="Self.FK_tbDauSach_tbTG" FromRole="tbDauSach" ToRole="tbTG" />
+  </EntityType>
+  <EntityType Name="tbDG">
+    <Key>
+      <PropertyRef Name="MaDG" />
+    </Key>
+    <Property Name="MaDG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenDG" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ChucVu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Lop" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Khoa" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NgaySinh" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="GioiTinh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GhiChu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbThes" Relationship="Self.FK_tbThe_tbDG" FromRole="tbDG" ToRole="tbThe" />
+  </EntityType>
+  <EntityType Name="tbMK">
+    <Key>
+      <PropertyRef Name="MaDG" />
+    </Key>
+    <Property Name="MaDG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbNXB">
+    <Key>
+      <PropertyRef Name="MaNXB" />
+    </Key>
+    <Property Name="MaNXB" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenNXB" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SDT" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="tbDauSaches" Relationship="Self.FK_tbDauSach_tbNXB1" FromRole="tbNXB" ToRole="tbDauSach" />
+  </EntityType>
+  <EntityType Name="tbPhieuMuon">
+    <Key>
+      <PropertyRef Name="MaPhieu" />
+    </Key>
+    <Property Name="MaPhieu" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaDauSach" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaThe" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NgayMuon" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="NgayTra" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tbTG">
+    <Key>
+      <PropertyRef Name="MaTG" />
+    </Key>
+    <Property Name="MaTG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TenTG" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DiaChi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SDT" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="tbDauSaches" Relationship="Self.FK_tbDauSach_tbTG" FromRole="tbTG" ToRole="tbDauSach" />
+  </EntityType>
+  <EntityType Name="tbThe">
+    <Key>
+      <PropertyRef Name="MaThe" />
+    </Key>
+    <Property Name="MaThe" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="MaDG" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NgayCap" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Han" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="phieuphats" Relationship="Self.FK_phieuphat_tbThe" FromRole="tbThe" ToRole="phieuphat" />
+    <NavigationProperty Name="tbChoDuyets" Relationship="Self.FK_tbChoDuyet_tbThe" FromRole="tbThe" ToRole="tbChoDuyet" />
+    <NavigationProperty Name="tbDG" Relationship="Self.FK_tbThe_tbDG" FromRole="tbThe" ToRole="tbDG" />
+  </EntityType>
+  <Association Name="FK_phieuphat_tbThe">
+    <End Role="tbThe" Type="Self.tbThe" Multiplicity="0..1" />
+    <End Role="phieuphat" Type="Self.phieuphat" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbThe">
+        <PropertyRef Name="MaThe" />
+      </Principal>
+      <Dependent Role="phieuphat">
+        <PropertyRef Name="MaThe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbChoDuyet_tbDauSach">
+    <End Role="tbDauSach" Type="Self.tbDauSach" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tbChoDuyet" Type="Self.tbChoDuyet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbDauSach">
+        <PropertyRef Name="MaDauSach" />
+      </Principal>
+      <Dependent Role="tbChoDuyet">
+        <PropertyRef Name="MaDauSach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbChoDuyet_tbThe">
+    <End Role="tbThe" Type="Self.tbThe" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tbChoDuyet" Type="Self.tbChoDuyet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbThe">
+        <PropertyRef Name="MaThe" />
+      </Principal>
+      <Dependent Role="tbChoDuyet">
+        <PropertyRef Name="MaThe" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbDauSach_tbNXB1">
+    <End Role="tbNXB" Type="Self.tbNXB" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tbDauSach" Type="Self.tbDauSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbNXB">
+        <PropertyRef Name="MaNXB" />
+      </Principal>
+      <Dependent Role="tbDauSach">
+        <PropertyRef Name="MaNXB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbDauSach_tbTG">
+    <End Role="tbTG" Type="Self.tbTG" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tbDauSach" Type="Self.tbDauSach" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbTG">
+        <PropertyRef Name="MaTG" />
+      </Principal>
+      <Dependent Role="tbDauSach">
+        <PropertyRef Name="MaTG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tbThe_tbDG">
+    <End Role="tbDG" Type="Self.tbDG" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tbThe" Type="Self.tbThe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbDG">
+        <PropertyRef Name="MaDG" />
+      </Principal>
+      <Dependent Role="tbThe">
+        <PropertyRef Name="MaDG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLTVEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="phieuphats" EntityType="Self.phieuphat" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="tbChoDuyets" EntityType="Self.tbChoDuyet" />
+    <EntitySet Name="tbDauSaches" EntityType="Self.tbDauSach" />
+    <EntitySet Name="tbDGs" EntityType="Self.tbDG" />
+    <EntitySet Name="tbMKs" EntityType="Self.tbMK" />
+    <EntitySet Name="tbNXBs" EntityType="Self.tbNXB" />
+    <EntitySet Name="tbPhieuMuons" EntityType="Self.tbPhieuMuon" />
+    <EntitySet Name="tbTGs" EntityType="Self.tbTG" />
+    <EntitySet Name="tbThes" EntityType="Self.tbThe" />
+    <AssociationSet Name="FK_phieuphat_tbThe" Association="Self.FK_phieuphat_tbThe">
+      <End Role="tbThe" EntitySet="tbThes" />
+      <End Role="phieuphat" EntitySet="phieuphats" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbChoDuyet_tbDauSach" Association="Self.FK_tbChoDuyet_tbDauSach">
+      <End Role="tbDauSach" EntitySet="tbDauSaches" />
+      <End Role="tbChoDuyet" EntitySet="tbChoDuyets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbChoDuyet_tbThe" Association="Self.FK_tbChoDuyet_tbThe">
+      <End Role="tbThe" EntitySet="tbThes" />
+      <End Role="tbChoDuyet" EntitySet="tbChoDuyets" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbDauSach_tbNXB1" Association="Self.FK_tbDauSach_tbNXB1">
+      <End Role="tbNXB" EntitySet="tbNXBs" />
+      <End Role="tbDauSach" EntitySet="tbDauSaches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbDauSach_tbTG" Association="Self.FK_tbDauSach_tbTG">
+      <End Role="tbTG" EntitySet="tbTGs" />
+      <End Role="tbDauSach" EntitySet="tbDauSaches" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tbThe_tbDG" Association="Self.FK_tbThe_tbDG">
+      <End Role="tbDG" EntitySet="tbDGs" />
+      <End Role="tbThe" EntitySet="tbThes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

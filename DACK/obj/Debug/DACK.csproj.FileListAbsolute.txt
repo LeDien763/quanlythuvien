@@ -1,0 +1,348 @@
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\bin\Debug\DACK.exe.config
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\bin\Debug\DACK.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\bin\Debug\DACK.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.csproj.AssemblyReference.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.csproj.SuggestedBindingRedirects.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.FDangNhap.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.Menu.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.Properties.Resources.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.csproj.GenerateResource.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.csproj.CoreCompileInputs.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.Form1.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.MenuAdmin.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.Form2.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.Form3.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.Form4.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.Form5.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.QLNXBcs.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.QLSach.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.QLTacGiacs.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK\DACK\obj\Debug\DACK.tẽxr.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\bin\Debug\DACK.exe.config
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\bin\Debug\DACK.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\bin\Debug\DACK.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.csproj.AssemblyReference.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.csproj.SuggestedBindingRedirects.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.FDangNhap.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.Menu.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.MenuAdmin.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.Properties.Resources.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.QLNXBcs.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.QLSach.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.QLTacGiacs.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Home.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PhieuMuon.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Sach.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_TTCN.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.csproj.GenerateResource.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.csproj.CoreCompileInputs.cache
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.exe
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.pdb
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_DOCGIAA.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_HOMEA.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_QLS.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PHIEUMUONA.resources
+F:\GiaoTrinhSPKT\HocKy3\LTWinform\projects_2023\CuoiKy\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_THONGKEA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.BLPass.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.FDangNhap.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.Menu.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.MenuAdmin.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.QLNXBcs.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.QLSach.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.QLTacGiacs.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_DOCGIAA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Home.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_HOMEA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PhieuMuon.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PHIEUMUONA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_QLS.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Sach.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_THONGKEA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_TTCN.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\bin\Debug\DACK.exe.config
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\bin\Debug\DACK.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\bin\Debug\DACK.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.FChoDuyet.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.FDaMuon.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.QLThe.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_FMuon.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK - Copy\DACK\obj\Debug\DACK.FormReport.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.exe.config
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\EnvDTE.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\stdole.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.BLPass.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FChoDuyet.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FDaMuon.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FDangNhap.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FormReport.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.Menu.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.MenuAdmin.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLNXBcs.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLSach.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLTacGiacs.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLThe.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_FMuon.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_DOCGIAA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Home.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_HOMEA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PhieuMuon.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PHIEUMUONA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_QLS.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Sach.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_THONGKEA.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_TTCN.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.pdb
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.exe.config
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.exe
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.pdb
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\EnvDTE.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\stdole.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.BLPass.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FChoDuyet.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FDaMuon.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FDangNhap.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FormReport.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.Menu.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.MenuAdmin.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.Properties.Resources.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLNXBcs.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLSach.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLTacGiacs.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLThe.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_FMuon.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_DOCGIAA.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Home.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_HOMEA.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PhieuMuon.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PHIEUMUONA.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_QLS.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Sach.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_THONGKEA.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_TTCN.resources
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.CopyComplete
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.exe
+C:\Users\admin\Downloads\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.pdb
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.exe.config
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.exe
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\DACK.pdb
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\EnvDTE.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\stdole.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.xml
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\EntityFramework.SqlServer.xml
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.AssemblyReference.cache
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.BLPass.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FChoDuyet.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FDaMuon.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FDangNhap.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FormReport.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.Menu.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.MenuAdmin.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.Properties.Resources.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLNXBcs.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLSach.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLTacGiacs.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.QLThe.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_FMuon.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_DOCGIAA.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Home.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_HOMEA.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PhieuMuon.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_PHIEUMUONA.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_QLS.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_Sach.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_THONGKEA.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.UseControls.US_TTCN.resources
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.GenerateResource.cache
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.csproj.CopyComplete
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.exe
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.pdb
+D:\LapTrinhWindow\DACK -Entityy\DACK -Entity\DACK - Copy\DACK\obj\Debug\DACK.FKhoaThe.resources
